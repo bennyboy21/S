@@ -1,0 +1,31 @@
+.NameTextBox {
+  height: 5%;
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 25%;
+}
+
+.LastNameTextBox {
+  height: 5%;
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 33%;
+}
+
+.PasswordTextBox {
+  height: 5%;
+  width: 50%;
+  position: absolute;
+  left: 25%;
+  top: 41%;
+}
+
+.SubmitButton {
+  height: 4%;
+  width: 16%;
+  position: absolute;
+  top: 55%;
+  left: 43%;
+}
